@@ -2,7 +2,11 @@ package com.tiagosilvagomes.Projeto_Web_Services_Com_Spring_Boot_e_JPA_Hibernate
 
 public enum OrderStatus {
 
-	WAITING_PAYMENT(1), PAID(2), SHIPPED(3), DELIVERED(4), CANCELED(5);
+	WAITING_PAYMENT(1),
+	PAID(2),
+	SHIPPED(3),
+	DELIVERED(4),
+	CANCELED(5);
 
 	private int code;
 
