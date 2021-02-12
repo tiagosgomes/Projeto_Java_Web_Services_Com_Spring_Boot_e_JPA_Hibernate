@@ -18,7 +18,7 @@ Este projeto foi desenvolvido como parte prática do Curso de Java Completo do D
 ## As seguintes tecnologias foram utilizadas neste projeto:
 * Java SE 11
 * Java EE
-* Spring Boot Framework
+* Spring Boot Framework (version 2.3.9.BUILD-SNAPSHOT)
 * SQL
 * JPA
 * Hibernate
