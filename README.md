@@ -1,21 +1,21 @@
-# Projeto Java Web Services Com Spring Boot e JPA/Hibernate
+# Java Web Services Project with Spring Boot and JPA/Hibernate
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/LICENSE)
 
-## Sobre o projeto
+## About the Project
 
-Este projeto foi desenvolvido como parte prática do Curso de Java Completo do Dr. Nelio Alves.
+This project was developed as part of the Complete Java Course by Dr. Nelio Alves.
 
-## Os objetivos propostos para este projeto são:
-* Criar um projeto Java com Spring Boot;
-* Implementar o modelo de domínio;
-* Estruturar as camadas lógicas: Resource, Service e Repository;
-* Configurar banco de dados de teste (H2);
-* Povoar o banco de dados SQL;
-* Fazer o "CRUD - Create, Retrieve, Update, Delete";
-* Fazer os tratamentos de exceções;
-* Fazer o deploy para o Heroku usando PostgreSQL;
+## Objectives:
+* Create a Java project with Spring Boot;
+* Implement the domain model;
+* Structure logical layers: Resource, Service and Repository;
+* Configure a test database (H2);
+* Populate the SQL database;
+* Perform CRUD operations (Create, Retrieve, Update, Delete);
+* Handle exceptions;
+* Deploy to Heroku using PostgreSQL;
 
-## As seguintes tecnologias foram utilizadas neste projeto:
+## Technologies Used:
 * Java SE 11
 * Java EE
 * Spring Boot Framework (version 2.3.9.BUILD-SNAPSHOT)
@@ -32,37 +32,37 @@ Este projeto foi desenvolvido como parte prática do Curso de Java Completo do D
 * GitHub
 * Postman
 
-## API Disponível No Heroku
+## API Available on Heroku
 Link: https://projeto-spring-jpa-hibernate.herokuapp.com/
 
-## Autor
+## Author
 
 Tiago S. Gomes  
-https://www.linkedin.com/in/tiago-s-539957136/  
+[https://www.linkedin.com/in/tiago-s-539957136/](https://www.linkedin.com/in/tiago-s-539957136/?locale=en_US)  
 tiagosgtech@outlook.com  
 
-# Capturas de Tela da Aplicação
+# Application Screenshots
 
-## Diagrama De Classes
+## Class Diagram
 ![Diagrama-De-Classes](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/assets/Diagrama-De-Classes.JPG)
 
-## Diagrama De Objetos
+## Object Diagram
 ![Diagrama-De-Objetos](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/assets/Diagrama-De-Objetos.JPG)
 
-## Divisão De Camadas
+## Layer Division
 ![Divisão-De-Camadas](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/assets/Divis%C3%A3o-De-Camadas.JPG)
 
-## Criando Usuário No Postman
+## Creating User in Postman
 ![Criando-Usuario-Postman](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/assets/Criando-Usuario-Postman.JPG)
 
-## Recuperando Usuário Por ID
+## Retrieving User by ID
 ![Recuperando-Usuario-Por-ID](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/assets/Recuperando-Usuario-Por-ID.JPG)
 
-## Recuperando Lista De Usuários
+## Retrieving User List
 ![Recuperando-Lista-De-Usuarios](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/assets/Recuperando-Lista-De-Usuarios.JPG)
 
-## Atualizando Usuário Por ID
+## Updating User by ID
 ![Atualizando-Usuario-Por-ID](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/assets/Atualizando-Usuario-Por-ID.JPG)
 
-## Deletando Usuário Por ID
+## Deleting User by ID
 ![Deletando-Usuario-Por-ID](https://github.com/tiagosgomes/Projeto_Java_Web_Services_Com_Spring_Boot_e_JPA_Hibernate/blob/main/assets/Deletando-Usuario-Por-ID.JPG)
